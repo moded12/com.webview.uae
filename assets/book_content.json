@@ -1,0 +1,60 @@
+{
+  "dashboard": [
+    {
+      "title": "تمہید",
+      "ext": ".jpg",
+      "file_name":"img",
+      "api_url": "book_pages/",
+      "start_page":"0",
+      "count": "53"
+    }, 
+    {
+      "title": "پہلا نمبر کلمہ",
+      "ext": ".jpg",
+      "file_name":"img",
+      "api_url": "book_pages/",
+      "start_page":"1",
+      "count": "53"
+    }, 
+    {
+      "title": "دوسرا نمبر  نماز",
+      "ext": ".jpg",
+      "file_name":"img",
+      "api_url": "book_pages/",
+      "start_page":"13",
+      "count": "53"
+    }, 
+    {
+      "title": "تیسرا نمبر  علم و ذکر",
+      "ext": ".jpg",
+      "file_name":"img",
+      "api_url": "book_pages/",
+      "start_page":"18",
+      "count": "53"
+    }, 
+    {
+      "title": "چوتھا نمبر اکرام مسلم",
+      "ext": ".jpg",
+      "file_name":"img",
+      "api_url": "book_pages/",
+      "start_page":"30",
+      "count": "53"
+    }, 
+    {
+      "title": "پانچواں نمبر تصیح نیّت",
+      "ext": ".jpg",
+      "file_name":"img",
+      "api_url": "book_pages/",
+      "start_page":"38",
+      "count": "53"
+    }, 
+    {
+      "title": "چھٹا نمبر دعوت و تبلیغ",
+      "ext": ".jpg",
+      "file_name":"img",
+      "api_url": "book_pages/",
+      "start_page":"44",
+      "count": "53"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "project_info": {
+    "project_number": "333304940956",
+    "project_id": "almuallim-eafa9",
+    "storage_bucket": "almuallim-eafa9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:333304940956:android:863923c08bbbc92dd46059",
+        "android_client_info": {
+          "package_name": "com.webview.uae"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "333304940956-r6v6418ngoh6r03m1t8ioe7rqtrg1dai.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMDwJWk0MiJsZiXvMBoe8RNVHCVODG8-g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "333304940956-r6v6418ngoh6r03m1t8ioe7rqtrg1dai.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "333304940956-gce1989prui8deij438f5nqrib1h3lbo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.muallim"
+              }
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-6074126847876749~6617935232"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:333304940956:android:185d4e16d510b939d46059",
+        "android_client_info": {
+          "package_name": "com.webview.wew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "333304940956-r6v6418ngoh6r03m1t8ioe7rqtrg1dai.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMDwJWk0MiJsZiXvMBoe8RNVHCVODG8-g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "333304940956-r6v6418ngoh6r03m1t8ioe7rqtrg1dai.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "333304940956-gce1989prui8deij438f5nqrib1h3lbo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.muallim"
+              }
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-6074126847876749~6899563961"
+    }
+  ],
+  "configuration_version": "1"
+}
